@@ -5,7 +5,7 @@ export const metadata = {
 const AboutPage = () => {
   return (
     <div>
-      <h1>About Traversy Media</h1>
+      <h1>About my Website</h1>
       <p>
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit
         molestiae ipsam, et aut consequatur ipsum voluptates quasi, quos
